@@ -1,5 +1,6 @@
 # This is a script to cheat the reaction time on human calculator
 # made to learn pyautogui
+# mouse control and screenshot functions
 
 import pyautogui
 
